@@ -1,6 +1,6 @@
 # 🚦 Simulador de Semáforo Inteligente
 
-Un controlador interactivo de tráfico desarrollado en **C# (Windows Forms)**. Este proyecto implementa lógica de control en tiempo real, adaptando los tiempos de las luces según la densidad vehicular y permitiendo la intervención manual. 
+Un controlador interactivo de tráfico desarrollado en **C# (Windows Forms)**. Este proyecto implementa lógica de control en tiempo real, adaptando los tiempos de las luces según la densidad vehicular y permitiendo la intervención manual.
 
 Ideal para demostrar fundamentos de lógica condicional, manejo de hilos temporales (Timers) y diseño de interfaces de escritorio.
 
@@ -8,7 +8,7 @@ Ideal para demostrar fundamentos de lógica condicional, manejo de hilos tempora
 
 - **Gestión de Fases:** Transiciones automáticas y precisas entre Verde, Amarillo y Rojo.
 - **Densidad de Tráfico Dinámica:** Ajuste de tiempos en tiempo real seleccionando la carga vehicular (Baja, Media, Alta/Hora Punta).
-- **Modos de Operación:** 
+- **Modos de Operación:**
   - *Automático:* Ciclo continuo que evalúa condiciones de tráfico.
   - *Manual:* Permite al operador detener la simulación o forzar el inicio de la secuencia.
 - **Dashboard en Vivo:** Interfaz gráfica que muestra la cuenta regresiva por fase y el estado actual.
@@ -22,7 +22,9 @@ Ideal para demostrar fundamentos de lógica condicional, manejo de hilos tempora
 
 ## 📸 Vista Previa
 
-![Dashboard del Semáforo](captura.png)
+| Vista Principal | Detalles de Ejecución |
+| :---: | :---: |
+| ![Dashboard del Semáforo 1](captura.png) | ![Dashboard del Semáforo 2](Captura_2.png) |
 
 ## ⚙️ Cómo probarlo
 
